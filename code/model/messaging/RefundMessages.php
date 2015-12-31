@@ -1,11 +1,11 @@
 <?php
 
-class RefundRequest extends GatewayRequestMessage{
-	
+class RefundRequest extends GatewayRequestMessage
+{
 }
-class RefundedResponse extends GatewayResponseMessage{
-	
+class RefundedResponse extends GatewayResponseMessage
+{
 }
-class RefundError extends GatewayErrorMessage{
-	
+class RefundError extends GatewayErrorMessage
+{
 }

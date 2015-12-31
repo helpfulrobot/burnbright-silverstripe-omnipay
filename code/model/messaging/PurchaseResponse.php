@@ -1,3 +1,4 @@
 <?php
-class PurchasedResponse extends GatewayResponseMessage{	
+class PurchasedResponse extends GatewayResponseMessage
+{
 }

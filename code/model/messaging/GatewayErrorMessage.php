@@ -1,4 +1,4 @@
 <?php
-class GatewayErrorMessage extends GatewayMessage{
-
+class GatewayErrorMessage extends GatewayMessage
+{
 }

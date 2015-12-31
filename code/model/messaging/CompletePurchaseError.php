@@ -1,3 +1,4 @@
 <?php
-class CompletePurchaseError extends GatewayErrorMessage{
+class CompletePurchaseError extends GatewayErrorMessage
+{
 }

@@ -5,11 +5,11 @@
  * In there, the $SuccessURL and $FailureURL properties can be used to further redirect the user
  * based on the processed payment status.
  */
-class GatewayRequestMessage extends GatewayMessage{
+class GatewayRequestMessage extends GatewayMessage
+{
 
-	private static $db = array(
-		'SuccessURL' => 'Text',
-		'FailureURL' => 'Text'
-	);
-
+    private static $db = array(
+        'SuccessURL' => 'Text',
+        'FailureURL' => 'Text'
+    );
 }

@@ -1,3 +1,4 @@
 <?php
-class PurchaseRedirectResponse extends GatewayRedirectResponseMessage{	
+class PurchaseRedirectResponse extends GatewayRedirectResponseMessage
+{
 }

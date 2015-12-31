@@ -1,3 +1,4 @@
 <?php
-class PurchaseRequest extends GatewayRequestMessage{	
+class PurchaseRequest extends GatewayRequestMessage
+{
 }
